@@ -1,3 +1,4 @@
+<meta name="google-site-verification" content="aD-XqYoGmXuSYAdlhnuFQCzH2y3beehbOong5sFWcmA" />
 <?php
 function getExternalContentCurl($url) {
     // Validasi URL
